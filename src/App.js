@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
-import YaziListesi from './components/YaziLİstesi';
+import YaziListesi from './components/YaziListesi';
 import YaziDetayi from './components/YaziDetayi';
 
 function App() {
